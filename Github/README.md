@@ -3,7 +3,7 @@ This is because Github has it's own manuals which are better and more detailed.
 
 These manuals are: 
 
-## [Git cheat sheets]([https://education.github.com/git-cheat-sheet-education.pdf)
+## [Git cheat Sheets](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## [GitHub Flow guide](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
 
@@ -15,10 +15,10 @@ Which were taken from:
 
 There is more information in this site: 
 
-## [https://education.github.community/]
+## https://education.github.community/
 
 Remember that if you are a professor or a teacher, you can have a Premium account.
 
-## [https://education.github.com/pack]
+## https://education.github.com/pack
 
 My own *OLD* manual will be [here](Own Manual.md)
