@@ -21,4 +21,4 @@ Remember that if you are a professor or a teacher, you can have a Premium accoun
 
 ## https://education.github.com/pack
 
-My own *OLD* manual will be [here](Own Manual.md)
+My own *OLD* manual will be [here](OwnManual.md)
